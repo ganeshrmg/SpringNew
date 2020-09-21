@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "customerinfo",
+      "type": "com.banking.BankingConfig",
+      "sourceType": "com.banking.BankingConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "customerinfo.id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.banking.BankingConfig"
+    },
+    {
+      "name": "customerinfo.name",
+      "type": "java.lang.String",
+      "sourceType": "com.banking.BankingConfig"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,6 @@
+projectKey=com.duediligence:Banking-Customer-Duediligence
+serverUrl=http://localhost:9000
+serverVersion=8.3.1.34397
+dashboardUrl=http://localhost:9000/dashboard?id=com.duediligence%3ABanking-Customer-Duediligence
+ceTaskId=AXSsiJ0c5WwlUsCAWP-u
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXSsiJ0c5WwlUsCAWP-u
